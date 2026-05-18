@@ -1,3 +1,4 @@
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -56,3 +57,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# LARAVEL-BLOG-APP
+Laravel Chirper is a Laravel-based blogging app that lets users create, view, edit, and delete short posts called chirps. It uses MVC architecture, Blade templates, and Eloquent ORM to manage and display data. The project has core Laravel features such as routing, controllers, CRUD operations, and model relationships in a simple and structured way.
+>>>>>>> 3a3af599282ef1a387402af34fa3828ee324a6b4
